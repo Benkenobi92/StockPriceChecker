@@ -1,2 +1,0 @@
-# StockPriceChecker
-Price Checker Website
